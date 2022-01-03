@@ -1,2 +1,2 @@
 # helloworld-php
-Hello World! application for PHP.
+Hello World! PHP script.
